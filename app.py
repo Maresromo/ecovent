@@ -6,8 +6,6 @@ from shiny import reactive
 from functools import partial
 from datetime import datetime
 from matplotlib.gridspec import GridSpec
-from windrose import WindroseAxes, plot_windrose
-from windrose import WindAxes
 
 import pandas as pd
 import seaborn as sbn
